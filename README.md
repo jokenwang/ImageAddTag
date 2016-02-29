@@ -3,4 +3,4 @@
 
 <img src="https://github.com/jokenwang/ImageAddTag/blob/master/image.png" width = "300" height = "600" />
 ##微信扫描添加好友
-<img src="https://github.com/jokenwang/jokenwang.github.com/blob/master/mycode.jpg"/>
+<img src="https://github.com/jokenwang/jokenwang.github.com/blob/master/mycode.jpg" width="200" height="200"/>
